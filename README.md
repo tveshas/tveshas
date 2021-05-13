@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tveshas (16)
+- 👀 I’m interested in codes ig?
+- 🌱 I’m currently learning java
