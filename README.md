@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tveshas (16)
 - 👀 I’m interested in codes ig?
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java script.
+- 🦋 I'm planning to learn noje.js, coffeescript, java.
