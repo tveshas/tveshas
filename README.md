@@ -6,7 +6,9 @@ just your average coder who likes to build stuff
 // some things about me i guess
 {
     currently: "probably coding listening to travis or jaden ",
-    fun fact: "i debug by talking to rubber ducks",
+    likes: "i'm into physics and a lot of ml",
+    dislikes: "hate it when my code doesn't work" 
+    
 }
 ```
 
