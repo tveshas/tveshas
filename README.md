@@ -23,19 +23,19 @@ just your average coder who likes to build stuff
 * building random projects at 3am after watching Silicon Valley
 
 ## my projects (the ones that actually work)
-* [project name] - it does something cool
-* [another project] - this one almost works
-* [that one project] - we don't talk about this one (i was 15 😭)
+* [mnist gan]https://github.com/tveshas/mnist-gan - it does something cool (i'm proud of this one)
+* [planet simulation]https://github.com/tveshas/planet-stimulation - this one almost works
+* [that one project]https://github.com/tveshas/discord-reminder-bot - we don't talk about this one (well i was 15)
 
 ## github stats (if you're into that)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=dark" alt="my extremely professional stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=[tveshas]&show_icons=true&theme=dark" alt="my extremely professional stats">
 </p>
 
 ## find me
 * [twitter]https://x.com/liltvvv : (i post about science cats f1 and tennis)
 * email: [tveshasingh@email.com] (hmu to create a project together (: )
-* [linkedin](https://www.linkedin.com/in/tvesha-singh/) :(because apparently we need this)
+* [linkedin]https://www.linkedin.com/in/tvesha-singh/ :(because apparently we need this)
 
 ---
 *this readme is a work in progress... like everything else*
