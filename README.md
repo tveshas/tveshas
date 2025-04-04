@@ -31,8 +31,8 @@ just your average coder who likes to build stuff
 
 
 ## find me
-* [twitter](https://x.com/liltvvv) : i usually post about science cats f1 tennis
-* email: [tveshasingh@email.com] (hmu to create a project together (: )
+* [twitter](https://x.com/tensorflawed) : i usually post about science cats f1 tennis
+* email: [tveshasingh@gmail.com] (hmu to create a project together (: )
 * [linkedin](https://www.linkedin.com/in/tvesha-singh/) :(because apparently we need this)
 
 ---
